@@ -34,3 +34,4 @@ git branch -m main
 git push -u origin main
 clear
 echo hello PostgreSQL
+psql --username=freecodecamp --dbname=postgres
